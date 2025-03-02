@@ -30,8 +30,15 @@
     .custom-product{
         height: 600px
     }
-    .slider-text{
-        background-color: #24465454 !important;
+    .hellow{
+        color:rgba(5, 32, 44, 0.33) !important;
+    }
+    .hellow2{
+        color:rgba(20, 82, 108, 0.33) !important;
+    }
+    .hellow3{
+        margin-left: 40%;
+        margin-top: 40px;
     }
     .trending-img{
         height: 100px;
